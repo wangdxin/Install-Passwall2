@@ -4,7 +4,7 @@
 自动化安装最新版本Passwall2，暂只支持x86_64
 
 
-#### 安装命令
+#### x86_64 安装命令
 
 ```
 bash <(curl -sL https://raw.githubusercontent.com/wangdxin/Install-Passwall2/refs/heads/main/install-passwall2.sh)
