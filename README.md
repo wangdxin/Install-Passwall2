@@ -7,7 +7,7 @@
 #### x86_64 安装命令
 
 ```
-bash <(curl -sL https://raw.githubusercontent.com/wangdxin/Install-Passwall2/refs/heads/main/install-passwall2.sh)
+bash <(curl -sL https://raw.githubusercontent.com/wangdxin/Install-Passwall2/master/install-passwall2.sh)
 ```
 
 #### 卸载命令
